@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\bin\Debug\SQLTABLE.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\bin\Debug\SQLTABLE.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SQLTABLE\SQLTABLE\obj\x86\Debug\SQLTABLE.csprojResolveAssemblyReference.cache
